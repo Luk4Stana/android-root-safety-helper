@@ -8,7 +8,7 @@ Temporarily hides root indicators (`su`, Magisk paths) using memory mounts. **Al
 
 ## Usage
 1. Download scripts to Android device.
-2. Open Terminal (Termux/ADB) and gain root:
+2. Open Terminal (For example Termux/ADB/Kali Nethunter Shell) and gain root:
    ```bash
    su
 --------------

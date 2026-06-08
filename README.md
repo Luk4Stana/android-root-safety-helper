@@ -21,5 +21,5 @@ sh test-safetynet.sh
 Uninstall
 Reboot your device. All modifications are memory-only and vanish instantly.
 --------------
-How it works
+How it works:
 Uses mount --bind to overlay empty files over root paths. No permanent system changes.

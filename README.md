@@ -18,8 +18,9 @@ Run installer:
 Test (optional):
 sh test-safetynet.sh  
 --------------
-Uninstall
+Uninstall:
 Reboot your device. All modifications are memory-only and vanish instantly.
 --------------
 How it works:
 Uses mount --bind to overlay empty files over root paths. No permanent system changes.
+--------------
